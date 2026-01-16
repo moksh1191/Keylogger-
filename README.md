@@ -43,4 +43,4 @@ _Real-time, always-on antivirus/anti-malware protection is the gold standard for
 ## Disclaimer
 _This tool is for educational purposes only, the author do not endorse or promote any illegal activity and are not responsible for any damage done henceforth._
 
-_This project was developed with reference to multiple open-source implementations and learning resources shared by various contributors on GitHub.
+This project was developed with reference to multiple open-source implementations and learning resources shared by various contributors on GitHub.
